@@ -7,3 +7,7 @@ Rocketseat Repository
 1. Update the `.env` file;
 2. Run `npm install`;
 3. Run `npm run knex -- migrate:latest`.
+
+## Tests
+
+1. Run `npm run test`.
